@@ -28,10 +28,10 @@ python main.py
 ```
 
 ## 👥 Autores (Grupo de Trabajo)
-* Integrante 1 — Módulo Principal (`main.py`)
-* Integrante 2 — Base de Conocimiento (`base_conocimiento.py`)
-* Integrante 3 — Módulo Chatbot (`modulo_chatbot.py`)
-* Integrante 4 — Módulo Planificador (`modulo_planificador.py`)
-* Integrante 5 — Pruebas y Documentación
+* Corimayhua Quispe Heber Anthony — Módulo Principal (`main.py`)
+* Cristobal Robladillo Josué Alexis — Base de Conocimiento (`base_conocimiento.py`)
+* Bustamante Estrada Matias Nicolas — Módulo Chatbot (`modulo_chatbot.py`)
+* Silva Miranda Alejandro Alonso — Módulo Planificador (`modulo_planificador.py`)
+* Cuicapusa Vargas Jhonel Byron Alexander, Flores Chuquiure Anthony Ronaldo — Pruebas y Documentación
 
 **Docente:** Ing. Ivan Carlo Petrlik Azabache — Lima, Perú (2026).
